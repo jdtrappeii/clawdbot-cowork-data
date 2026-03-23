@@ -1,7 +1,7 @@
 {
-  "id": "20260322-test2",
-  "timestamp": "2026-03-22T23:23:00",
-  "task": "Confirm TEST 2 received: report back the top 3 operators by avg weekly THC from the Q1 2026 FL MMTC data",
-  "requested_by": "clawdbot_test",
+  "id": "20260323-033230",
+  "timestamp": "2026-03-23T03:32:30Z",
+  "task": "READ AND ACKNOWLEDGE: New relay protocol implemented. When processing tasks from inbox/task.json, you MUST now send TWO messages to Clawdbot: 1) [TASK START] when you begin (format: '[TASK START] ID: [id] | Started: [HH:MM UTC] | Task: [description]'), and 2) [COWORK RESULT] when complete (format: '[COWORK RESULT] ID: [id] | Completed: [HH:MM UTC] | Duration: [time]\\n\\n[result]'). This enables real-time WhatsApp notifications to Jeff showing task progress. Full protocol documented in RELAY_PROTOCOL.md. Please confirm you understand and will follow this format.",
+  "requested_by": "jeff_mobile",
   "status": "pending"
 }
