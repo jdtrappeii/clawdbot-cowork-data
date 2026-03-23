@@ -2,6 +2,41 @@
 
 **Three-Platform Integration:** WhatsApp ↔ Clawdbot ↔ GitHub ↔ Cowork
 
+## Task Routing Decision
+
+**Default: Clawdbot handles tasks directly**
+
+When Jeff sends a task via WhatsApp, Clawdbot evaluates:
+
+### Execute Locally (Clawdbot):
+- Quick queries and lookups
+- Simple commands (echo, ls, grep, etc.)
+- File operations (read, write, edit)
+- Git operations (commit, push, pull)
+- Data retrieval from existing files
+- System status checks
+
+### Ask Before Routing to Cowork:
+- Heavy data analysis (aggregations, statistics, trends)
+- Excel/CSV processing and visualization
+- Complex multi-step workflows
+- FL MMTC deep-dive analysis
+- Tasks requiring multiple data sources
+
+**Format when asking:**
+```
+🤔 This looks like [type] task. Route to Cowork for processing?
+
+Reply:
+• Y = Push to Cowork (heavier compute, ~5 min wait)
+• N = I'll handle it now (faster, simpler approach)
+```
+
+**Cost Optimization Goal:**
+- Minimize API calls by handling routine tasks locally
+- Use Cowork only for tasks that benefit from its capabilities
+- Jeff approves routing for cost control
+
 ## Workflow
 
 ### 1. Task Submission (WhatsApp → Clawdbot → GitHub)
@@ -11,8 +46,16 @@
 "[task description]"
 ```
 
-**Clawdbot immediately:**
-1. Creates `inbox/task.json` with:
+**Clawdbot evaluates and either:**
+
+**A) Handles directly (default):**
+1. Executes the task locally
+2. Sends result to WhatsApp
+3. Logs summary to GitHub (optional, for Cowork context)
+
+**B) Asks to route to Cowork:**
+1. Asks Jeff: "Route to Cowork? (Y/N)"
+2. If Y: Creates `inbox/task.json` with:
    ```json
    {
      "id": "YYYYMMDD-HHMMSS",
@@ -117,7 +160,20 @@ Top 3 FL MMTC operators by avg weekly THC (Q1 2026):
 - Message starting with `[COWORK RESULT]` → Parse and relay completion + result to WhatsApp
 - All other messages from Cowork → Log but don't auto-relay
 
+## Task Execution Log
+
+When Clawdbot handles tasks directly, it can optionally log to GitHub:
+
+**File:** `logs/clawdbot-tasks.jsonl`
+
+**Format:**
+```jsonl
+{"id":"20260323-034500","timestamp":"2026-03-23T03:45:00Z","task":"ls -la","executed_by":"clawdbot","result":"[output]","duration_ms":120}
+```
+
+This keeps Cowork informed of what's been done without requiring full routing.
+
 ---
 
-**Last Updated:** 2026-03-23 03:31 UTC
-**Version:** 1.1 (added task start/end timestamps)
+**Last Updated:** 2026-03-23 03:41 UTC
+**Version:** 1.2 (added smart routing: Clawdbot-first with optional Cowork escalation)
