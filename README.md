@@ -22,9 +22,10 @@ This repository serves as a bridge for data sharing and collaborative analysis b
 
 ## Current Projects
 
-### 1. OMMU Reports 2026 Q1
-Florida cannabis dispensary data (locations, sales, THC/CBD metrics)
-- **Path:** `/projects/ommu-2026-q1/`
+### 1. Florida OMMU Reports - Q1 2026
+**Source:** Florida Office of Medical Marijuana Use (OMMU) official weekly reports  
+**Data:** FL cannabis dispensary data (locations, sales, THC/CBD metrics)
+- **Path:** `/projects/fl-ommu-2026-q1/`
 - **Status:** Active
 - **Last Updated:** 2026-03-23
 

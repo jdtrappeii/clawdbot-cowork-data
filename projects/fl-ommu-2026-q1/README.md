@@ -1,6 +1,7 @@
-# OMMU Reports 2026 Q1
+# Florida OMMU Reports - Q1 2026
 
-Florida Office of Medical Marijuana Use (OMMU) weekly reports for Q1 2026.
+**Source:** Florida Office of Medical Marijuana Use (OMMU)  
+**Official Weekly Reports** for Q1 2026
 
 ## Overview
 
