@@ -1,2042 +1,2074 @@
 {
-  "2026-01-02": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 162,
-      "Medical Marijuana (mg THC)": 116879561,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 50108.365
+  "Trulieve": {
+    "2026-01-02": {
+      "locations": 162,
+      "mg_thc": 116879561,
+      "mg_cbd": 0,
+      "smoking_oz": 50108.365
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 82,
-      "Medical Marijuana (mg THC)": 61174967,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 19139.671
+    "2026-01-09": {
+      "locations": 162,
+      "mg_thc": 92052974,
+      "mg_cbd": 0,
+      "smoking_oz": 45106.457
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 69,
-      "Medical Marijuana (mg THC)": 47725376,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14532.165
+    "2026-01-16": {
+      "locations": 162,
+      "mg_thc": 107221079,
+      "mg_cbd": 0,
+      "smoking_oz": 46188.19
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 66,
-      "Medical Marijuana (mg THC)": 43901792,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 10091.098
+    "2026-01-23": {
+      "locations": 163,
+      "mg_thc": 119648692,
+      "mg_cbd": 0,
+      "smoking_oz": 49706.962
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 31879351,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8553.8
+    "2026-01-30": {
+      "locations": 163,
+      "mg_thc": 99902664,
+      "mg_cbd": 0,
+      "smoking_oz": 49031.739
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 12391411,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4492.849
+    "2026-02-06": {
+      "locations": 163,
+      "mg_thc": 112939336,
+      "mg_cbd": 0,
+      "smoking_oz": 52944.804
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 14797028,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4771.68
+    "2026-02-13": {
+      "locations": 163,
+      "mg_thc": 104166410,
+      "mg_cbd": 0,
+      "smoking_oz": 49407.017
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13804777,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6629.981
+    "2026-02-20": {
+      "locations": 163,
+      "mg_thc": 115808008,
+      "mg_cbd": 0,
+      "smoking_oz": 48079.87
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9026886,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2831.107
+    "2026-02-27": {
+      "locations": 163,
+      "mg_thc": 108013543,
+      "mg_cbd": 0,
+      "smoking_oz": 50140.222
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9064817,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4558.741
+    "2026-03-06": {
+      "locations": 163,
+      "mg_thc": 111422389,
+      "mg_cbd": 0,
+      "smoking_oz": 52236.161
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 18490339,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3725.574
+    "2026-03-13": {
+      "locations": 165,
+      "mg_thc": 114961623,
+      "mg_cbd": 0,
+      "smoking_oz": 52260.849
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 9028913,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3805.689
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 7968064,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4794.013
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 15229765,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3848.357
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 8890877,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3335.937
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3316417,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 621.429
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 11,
-      "Medical Marijuana (mg THC)": 7489250,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 939.333
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3653680,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1373.132
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2188732,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 353.678
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 84328,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 35.56
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 165,
+      "mg_thc": 113562009,
+      "mg_cbd": 0,
+      "smoking_oz": 52534.912
     }
-  ],
-  "2026-01-09": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 162,
-      "Medical Marijuana (mg THC)": 92052974,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 45106.457
+  },
+  "M\u00dcV": {
+    "2026-01-02": {
+      "locations": 82,
+      "mg_thc": 61174967,
+      "mg_cbd": 0,
+      "smoking_oz": 19139.671
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 82,
-      "Medical Marijuana (mg THC)": 43941230,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 13413.793
+    "2026-01-09": {
+      "locations": 82,
+      "mg_thc": 43941230,
+      "mg_cbd": 0,
+      "smoking_oz": 13413.793
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 43032030,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 13498.3
+    "2026-01-16": {
+      "locations": 82,
+      "mg_thc": 41582419,
+      "mg_cbd": 0,
+      "smoking_oz": 13465.88
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 66,
-      "Medical Marijuana (mg THC)": 40250108,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 9129.332
+    "2026-01-23": {
+      "locations": 83,
+      "mg_thc": 51369020,
+      "mg_cbd": 0,
+      "smoking_oz": 14324.717
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 23596331,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5833.194
+    "2026-01-30": {
+      "locations": 83,
+      "mg_thc": 52601584,
+      "mg_cbd": 0,
+      "smoking_oz": 15174.552
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 11754756,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3959.1
+    "2026-02-06": {
+      "locations": 83,
+      "mg_thc": 48222723,
+      "mg_cbd": 0,
+      "smoking_oz": 15918.094
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 33,
-      "Medical Marijuana (mg THC)": 12926872,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3901.124
+    "2026-02-13": {
+      "locations": 83,
+      "mg_thc": 44710734,
+      "mg_cbd": 0,
+      "smoking_oz": 15355.666
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13351341,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6037.666
+    "2026-02-20": {
+      "locations": 83,
+      "mg_thc": 50124283,
+      "mg_cbd": 0,
+      "smoking_oz": 16759.847
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 8004339,
-      "Low-THC Cannabis (mg CBD)": 145,
-      "Smoking (oz)": 2762.417
+    "2026-02-27": {
+      "locations": 83,
+      "mg_thc": 52630452,
+      "mg_cbd": 0,
+      "smoking_oz": 16705.209
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 8457613,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5094.943
+    "2026-03-06": {
+      "locations": 83,
+      "mg_thc": 51913699,
+      "mg_cbd": 0,
+      "smoking_oz": 16526.245
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 15630147,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3412.174
+    "2026-03-13": {
+      "locations": 84,
+      "mg_thc": 46794964,
+      "mg_cbd": 0,
+      "smoking_oz": 15858.96
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 6143143,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2417.886
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 7690068,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4670.129
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 10624206,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2654.414
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 5884258,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2299.528
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3344095,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 594.392
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 11,
-      "Medical Marijuana (mg THC)": 7270446,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1073.86
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3307997,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1223.568
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2001528,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 313.465
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 94460,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 28.126
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 84,
+      "mg_thc": 51773739,
+      "mg_cbd": 0,
+      "smoking_oz": 16606.979
     }
-  ],
-  "2026-01-16": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 162,
-      "Medical Marijuana (mg THC)": 107221079,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 46188.19
+  },
+  "Curaleaf Florida, LLC": {
+    "2026-01-02": {
+      "locations": 69,
+      "mg_thc": 47725376,
+      "mg_cbd": 0,
+      "smoking_oz": 14532.165
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 82,
-      "Medical Marijuana (mg THC)": 41582419,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 13465.88
+    "2026-01-09": {
+      "locations": 70,
+      "mg_thc": 43032030,
+      "mg_cbd": 0,
+      "smoking_oz": 13498.3
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 45846368,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14575.583
+    "2026-01-16": {
+      "locations": 70,
+      "mg_thc": 45846368,
+      "mg_cbd": 0,
+      "smoking_oz": 14575.583
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 66,
-      "Medical Marijuana (mg THC)": 42993462,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 10644.007
+    "2026-01-23": {
+      "locations": 70,
+      "mg_thc": 43183215,
+      "mg_cbd": 0,
+      "smoking_oz": 13832.598
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 32704071,
-      "Low-THC Cannabis (mg CBD)": 74,
-      "Smoking (oz)": 6480.729
+    "2026-01-30": {
+      "locations": 70,
+      "mg_thc": 46718586,
+      "mg_cbd": 0,
+      "smoking_oz": 14090.102
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 12172757,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3883.204
+    "2026-02-06": {
+      "locations": 70,
+      "mg_thc": 50282701,
+      "mg_cbd": 0,
+      "smoking_oz": 14859.722
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 33,
-      "Medical Marijuana (mg THC)": 13581999,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4908.88
+    "2026-02-13": {
+      "locations": 70,
+      "mg_thc": 52905764,
+      "mg_cbd": 0,
+      "smoking_oz": 14729.508
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13639782,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6322.738
+    "2026-02-20": {
+      "locations": 70,
+      "mg_thc": 48973246,
+      "mg_cbd": 0,
+      "smoking_oz": 14610.049
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9003119,
-      "Low-THC Cannabis (mg CBD)": 435,
-      "Smoking (oz)": 2858.037
+    "2026-02-27": {
+      "locations": 70,
+      "mg_thc": 50214282,
+      "mg_cbd": 0,
+      "smoking_oz": 14723.006
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 8824826,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5252.442
+    "2026-03-06": {
+      "locations": 70,
+      "mg_thc": 47901645,
+      "mg_cbd": 0,
+      "smoking_oz": 15540.445
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 16470849,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3623.365
+    "2026-03-13": {
+      "locations": 70,
+      "mg_thc": 46317928,
+      "mg_cbd": 0,
+      "smoking_oz": 14858.518
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 7083481,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3263.382
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 6990897,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2395.842
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 8998158,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5519.242
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 12378711,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2649.819
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3364741,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 696.701
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 7960940,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 874.423
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3436818,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1290.278
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 1945686,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 341.798
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 111379,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 30.25
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 70,
+      "mg_thc": 52205296,
+      "mg_cbd": 0,
+      "smoking_oz": 15201.529
     }
-  ],
-  "2026-01-23": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 119648692,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 49706.962
+  },
+  "Ayr Cannabis Dispensary": {
+    "2026-01-02": {
+      "locations": 66,
+      "mg_thc": 43901792,
+      "mg_cbd": 0,
+      "smoking_oz": 10091.098
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 51369020,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14324.717
+    "2026-01-09": {
+      "locations": 66,
+      "mg_thc": 40250108,
+      "mg_cbd": 0,
+      "smoking_oz": 9129.332
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 43183215,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 13832.598
+    "2026-01-16": {
+      "locations": 66,
+      "mg_thc": 42993462,
+      "mg_cbd": 0,
+      "smoking_oz": 10644.007
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 66,
-      "Medical Marijuana (mg THC)": 40320033,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 9765.709
+    "2026-01-23": {
+      "locations": 66,
+      "mg_thc": 40320033,
+      "mg_cbd": 0,
+      "smoking_oz": 9765.709
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 27731597,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5518.842
+    "2026-01-30": {
+      "locations": 64,
+      "mg_thc": 41720182,
+      "mg_cbd": 0,
+      "smoking_oz": 9694.555
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 15407186,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4956.05
+    "2026-02-06": {
+      "locations": 64,
+      "mg_thc": 41952653,
+      "mg_cbd": 0,
+      "smoking_oz": 9480.856
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 33,
-      "Medical Marijuana (mg THC)": 16399374,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4417.756
+    "2026-02-13": {
+      "locations": 64,
+      "mg_thc": 40389191,
+      "mg_cbd": 0,
+      "smoking_oz": 8546.564
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12717007,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6246.551
+    "2026-02-20": {
+      "locations": 64,
+      "mg_thc": 38442733,
+      "mg_cbd": 0,
+      "smoking_oz": 8339.77
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9827568,
-      "Low-THC Cannabis (mg CBD)": 145,
-      "Smoking (oz)": 2922.374
+    "2026-02-27": {
+      "locations": 64,
+      "mg_thc": 39844074,
+      "mg_cbd": 0,
+      "smoking_oz": 8362.443
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9435004,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5440.102
+    "2026-03-06": {
+      "locations": 64,
+      "mg_thc": 40660365,
+      "mg_cbd": 0,
+      "smoking_oz": 8692.424
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 16445908,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3591.409
+    "2026-03-13": {
+      "locations": 64,
+      "mg_thc": 38823930,
+      "mg_cbd": 0,
+      "smoking_oz": 8793.593
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 7686978,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2766.409
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 7114831,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2386.946
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 8570983,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4850.983
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 11767124,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2932.614
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3392767,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 674.597
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 8102467,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 773.485
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3346838,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1288.736
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 1970961,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 383.404
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 71975,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 25.952
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 64,
+      "mg_thc": 37991027,
+      "mg_cbd": 0,
+      "smoking_oz": 8162.224
     }
-  ],
-  "2026-01-30": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 99902664,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 49031.739
+  },
+  "Surterra Wellness": {
+    "2026-01-02": {
+      "locations": 45,
+      "mg_thc": 31879351,
+      "mg_cbd": 0,
+      "smoking_oz": 8553.8
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 52601584,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15174.552
+    "2026-01-09": {
+      "locations": 45,
+      "mg_thc": 23596331,
+      "mg_cbd": 0,
+      "smoking_oz": 5833.194
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 46718586,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14090.102
+    "2026-01-16": {
+      "locations": 45,
+      "mg_thc": 32704071,
+      "mg_cbd": 74,
+      "smoking_oz": 6480.729
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 41720182,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 9694.555
+    "2026-01-23": {
+      "locations": 45,
+      "mg_thc": 27731597,
+      "mg_cbd": 0,
+      "smoking_oz": 5518.842
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 31374038,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 7327.628
+    "2026-01-30": {
+      "locations": 45,
+      "mg_thc": 31374038,
+      "mg_cbd": 0,
+      "smoking_oz": 7327.628
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 13602064,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4494.106
+    "2026-02-06": {
+      "locations": 45,
+      "mg_thc": 33518580,
+      "mg_cbd": 0,
+      "smoking_oz": 6867.648
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 33,
-      "Medical Marijuana (mg THC)": 14430701,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4903.952
+    "2026-02-13": {
+      "locations": 45,
+      "mg_thc": 27048997,
+      "mg_cbd": 0,
+      "smoking_oz": 7457.85
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12115294,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6228.558
+    "2026-02-20": {
+      "locations": 45,
+      "mg_thc": 34381099,
+      "mg_cbd": 0,
+      "smoking_oz": 6331.607
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9186143,
-      "Low-THC Cannabis (mg CBD)": 145,
-      "Smoking (oz)": 2710.536
+    "2026-02-27": {
+      "locations": 45,
+      "mg_thc": 44233478,
+      "mg_cbd": 0,
+      "smoking_oz": 7179.884
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 10356455,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5966.612
+    "2026-03-06": {
+      "locations": 45,
+      "mg_thc": 39195130,
+      "mg_cbd": 0,
+      "smoking_oz": 7604.684
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 16961103,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3563.396
+    "2026-03-13": {
+      "locations": 45,
+      "mg_thc": 32898462,
+      "mg_cbd": 0,
+      "smoking_oz": 7101.181
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 7509299,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2837.287
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 8177064,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2650.741
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 8483562,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4688.724
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 13457263,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3229.111
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3312096,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 670.816
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 10269391,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 912.049
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3368435,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1276.084
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2157031,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 387.609
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 70354,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 20.62
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 45,
+      "mg_thc": 29398868,
+      "mg_cbd": 0,
+      "smoking_oz": 8424.162
     }
-  ],
-  "2026-02-06": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 112939336,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 52944.804
+  },
+  "Green Dragon": {
+    "2026-01-02": {
+      "locations": 40,
+      "mg_thc": 12391411,
+      "mg_cbd": 0,
+      "smoking_oz": 4492.849
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 48222723,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15918.094
+    "2026-01-09": {
+      "locations": 40,
+      "mg_thc": 11754756,
+      "mg_cbd": 0,
+      "smoking_oz": 3959.1
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 50282701,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14859.722
+    "2026-01-16": {
+      "locations": 40,
+      "mg_thc": 12172757,
+      "mg_cbd": 0,
+      "smoking_oz": 3883.204
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 41952653,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 9480.856
+    "2026-01-23": {
+      "locations": 40,
+      "mg_thc": 15407186,
+      "mg_cbd": 0,
+      "smoking_oz": 4956.05
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 33518580,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6867.648
+    "2026-01-30": {
+      "locations": 40,
+      "mg_thc": 13602064,
+      "mg_cbd": 0,
+      "smoking_oz": 4494.106
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 13841367,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4208.741
+    "2026-02-06": {
+      "locations": 40,
+      "mg_thc": 13841367,
+      "mg_cbd": 0,
+      "smoking_oz": 4208.741
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15328733,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4691.111
+    "2026-02-13": {
+      "locations": 40,
+      "mg_thc": 13639239,
+      "mg_cbd": 0,
+      "smoking_oz": 4246.212
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12041218,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6152.431
+    "2026-02-20": {
+      "locations": 40,
+      "mg_thc": 13450848,
+      "mg_cbd": 0,
+      "smoking_oz": 4095.715
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9151687,
-      "Low-THC Cannabis (mg CBD)": 435,
-      "Smoking (oz)": 2590.307
+    "2026-02-27": {
+      "locations": 40,
+      "mg_thc": 14224907,
+      "mg_cbd": 0,
+      "smoking_oz": 4045.215
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9810778,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6167.96
+    "2026-03-06": {
+      "locations": 40,
+      "mg_thc": 13527127,
+      "mg_cbd": 0,
+      "smoking_oz": 3671.508
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 17639185,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3630.281
+    "2026-03-13": {
+      "locations": 40,
+      "mg_thc": 14558881,
+      "mg_cbd": 0,
+      "smoking_oz": 3465.12
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 7924911,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3115.797
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 7685830,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2623.113
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 8556032,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4594.188
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 13236992,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2864.582
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3243137,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 562.491
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 10473079,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1216.457
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3428142,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1190.24
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2075591,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 366.046
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 81172,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 25.529
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 23.582
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 40,
+      "mg_thc": 17285691,
+      "mg_cbd": 0,
+      "smoking_oz": 4723.484
     }
-  ],
-  "2026-02-13": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 104166410,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 49407.017
+  },
+  "Planet 13 Florida Cannabis for the Planet": {
+    "2026-01-02": {
+      "locations": 33,
+      "mg_thc": 6267389,
+      "mg_cbd": 0,
+      "smoking_oz": 3115.459
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 44710734,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15355.666
+    "2026-01-09": {
+      "locations": 33,
+      "mg_thc": 6988904,
+      "mg_cbd": 0,
+      "smoking_oz": 3151.125
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 52905764,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14729.508
+    "2026-01-16": {
+      "locations": 33,
+      "mg_thc": 7339155,
+      "mg_cbd": 0,
+      "smoking_oz": 3388.747
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 40389191,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8546.564
+    "2026-01-23": {
+      "locations": 33,
+      "mg_thc": 6626564,
+      "mg_cbd": 0,
+      "smoking_oz": 3313.364
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 27048997,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 7457.85
+    "2026-01-30": {
+      "locations": 33,
+      "mg_thc": 6770479,
+      "mg_cbd": 0,
+      "smoking_oz": 3178.297
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 13639239,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4246.212
+    "2026-02-06": {
+      "locations": 33,
+      "mg_thc": 7651937,
+      "mg_cbd": 0,
+      "smoking_oz": 3562.475
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15926193,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5599.104
+    "2026-02-13": {
+      "locations": 33,
+      "mg_thc": 6538289,
+      "mg_cbd": 0,
+      "smoking_oz": 3489.554
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12292290,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6305.209
+    "2026-02-20": {
+      "locations": 33,
+      "mg_thc": 6693986,
+      "mg_cbd": 0,
+      "smoking_oz": 3594.954
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9833777,
-      "Low-THC Cannabis (mg CBD)": 398,
-      "Smoking (oz)": 2720.884
+    "2026-02-27": {
+      "locations": 33,
+      "mg_thc": 6939819,
+      "mg_cbd": 0,
+      "smoking_oz": 3406.04
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 7905879,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5366.45
+    "2026-03-06": {
+      "locations": 33,
+      "mg_thc": 8662485,
+      "mg_cbd": 0,
+      "smoking_oz": 3688.587
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 16797636,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3522.652
+    "2026-03-13": {
+      "locations": 33,
+      "mg_thc": 7359702,
+      "mg_cbd": 0,
+      "smoking_oz": 3222.963
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 7923800,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3229.632
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 7682936,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2474.55
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9243916,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4545.361
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9757737,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2240.254
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3360853,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 731.707
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 10339017,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1147.901
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3232183,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1116.37
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2056924,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 409.593
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 57565,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 36.6
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 33,
+      "mg_thc": 7729480,
+      "mg_cbd": 0,
+      "smoking_oz": 3178.974
     }
-  ],
-  "2026-02-20": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 115808008,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 48079.87
+  },
+  "FLUENT": {
+    "2026-01-02": {
+      "locations": 32,
+      "mg_thc": 14797028,
+      "mg_cbd": 0,
+      "smoking_oz": 4771.68
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 50124283,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 16759.847
+    "2026-01-09": {
+      "locations": 33,
+      "mg_thc": 12926872,
+      "mg_cbd": 0,
+      "smoking_oz": 3901.124
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 48973246,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14610.049
+    "2026-01-16": {
+      "locations": 33,
+      "mg_thc": 13581999,
+      "mg_cbd": 0,
+      "smoking_oz": 4908.88
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 38442733,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8339.77
+    "2026-01-23": {
+      "locations": 33,
+      "mg_thc": 16399374,
+      "mg_cbd": 0,
+      "smoking_oz": 4417.756
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 34381099,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6331.607
+    "2026-01-30": {
+      "locations": 33,
+      "mg_thc": 14430701,
+      "mg_cbd": 0,
+      "smoking_oz": 4903.952
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 13450848,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4095.715
+    "2026-02-06": {
+      "locations": 32,
+      "mg_thc": 15328733,
+      "mg_cbd": 0,
+      "smoking_oz": 4691.111
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15140432,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4878.999
+    "2026-02-13": {
+      "locations": 32,
+      "mg_thc": 15926193,
+      "mg_cbd": 0,
+      "smoking_oz": 5599.104
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13125158,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6377.285
+    "2026-02-20": {
+      "locations": 32,
+      "mg_thc": 15140432,
+      "mg_cbd": 0,
+      "smoking_oz": 4878.999
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9945339,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2687.39
+    "2026-02-27": {
+      "locations": 32,
+      "mg_thc": 15954937,
+      "mg_cbd": 0,
+      "smoking_oz": 4615.88
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9354701,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5411.234
+    "2026-03-06": {
+      "locations": 32,
+      "mg_thc": 16237550,
+      "mg_cbd": 0,
+      "smoking_oz": 4778.389
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 16845026,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3470.919
+    "2026-03-13": {
+      "locations": 32,
+      "mg_thc": 15896951,
+      "mg_cbd": 0,
+      "smoking_oz": 4451.284
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 9584903,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3546.598
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 8081733,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2703.398
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9063639,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4825.019
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 12718010,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2778.575
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3192643,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 705.068
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 12,
-      "Medical Marijuana (mg THC)": 11418569,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1340.78
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3399314,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1162.456
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 1836956,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 392.8
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 59853,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 29.616
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 32,
+      "mg_thc": 15515772,
+      "mg_cbd": 0,
+      "smoking_oz": 4086.457
     }
-  ],
-  "2026-02-27": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 108013543,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 50140.222
+  },
+  "Sunnyside*": {
+    "2026-01-02": {
+      "locations": 31,
+      "mg_thc": 13804777,
+      "mg_cbd": 0,
+      "smoking_oz": 6629.981
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 52630452,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 16705.209
+    "2026-01-09": {
+      "locations": 31,
+      "mg_thc": 13351341,
+      "mg_cbd": 0,
+      "smoking_oz": 6037.666
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 50214282,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14723.006
+    "2026-01-16": {
+      "locations": 31,
+      "mg_thc": 13639782,
+      "mg_cbd": 0,
+      "smoking_oz": 6322.738
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 39844074,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8362.443
+    "2026-01-23": {
+      "locations": 31,
+      "mg_thc": 12717007,
+      "mg_cbd": 0,
+      "smoking_oz": 6246.551
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 44233478,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 7179.884
+    "2026-01-30": {
+      "locations": 31,
+      "mg_thc": 12115294,
+      "mg_cbd": 0,
+      "smoking_oz": 6228.558
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 14224907,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4045.215
+    "2026-02-06": {
+      "locations": 31,
+      "mg_thc": 12041218,
+      "mg_cbd": 0,
+      "smoking_oz": 6152.431
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15954937,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4615.88
+    "2026-02-13": {
+      "locations": 31,
+      "mg_thc": 12292290,
+      "mg_cbd": 0,
+      "smoking_oz": 6305.209
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13344331,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6393.945
+    "2026-02-20": {
+      "locations": 31,
+      "mg_thc": 13125158,
+      "mg_cbd": 0,
+      "smoking_oz": 6377.285
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 10584832,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2701.396
+    "2026-02-27": {
+      "locations": 31,
+      "mg_thc": 13344331,
+      "mg_cbd": 0,
+      "smoking_oz": 6393.945
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 10504506,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5671.758
+    "2026-03-06": {
+      "locations": 31,
+      "mg_thc": 12581297,
+      "mg_cbd": 0,
+      "smoking_oz": 6428.433
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 17918452,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3639.815
+    "2026-03-13": {
+      "locations": 31,
+      "mg_thc": 12969671,
+      "mg_cbd": 0,
+      "smoking_oz": 6529.377
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 10969381,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3737.725
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 8485956,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2925.863
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9488157,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4838.599
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 11630590,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2971.123
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3295091,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 668.352
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 13,
-      "Medical Marijuana (mg THC)": 12458101,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1508.774
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3258469,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1235.163
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2102044,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 401.898
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 58525,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 28.157
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 31,
+      "mg_thc": 13376320,
+      "mg_cbd": 0,
+      "smoking_oz": 6458.166
     }
-  ],
-  "2026-03-06": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 163,
-      "Medical Marijuana (mg THC)": 111422389,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 52236.161
+  },
+  "GrowHealthy": {
+    "2026-01-02": {
+      "locations": 25,
+      "mg_thc": 9026886,
+      "mg_cbd": 0,
+      "smoking_oz": 2831.107
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 83,
-      "Medical Marijuana (mg THC)": 51913699,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 16526.245
+    "2026-01-09": {
+      "locations": 25,
+      "mg_thc": 8004339,
+      "mg_cbd": 145,
+      "smoking_oz": 2762.417
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 47901645,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15540.445
+    "2026-01-16": {
+      "locations": 25,
+      "mg_thc": 9003119,
+      "mg_cbd": 435,
+      "smoking_oz": 2858.037
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 40660365,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8692.424
+    "2026-01-23": {
+      "locations": 25,
+      "mg_thc": 9827568,
+      "mg_cbd": 145,
+      "smoking_oz": 2922.374
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 39195130,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 7604.684
+    "2026-01-30": {
+      "locations": 25,
+      "mg_thc": 9186143,
+      "mg_cbd": 145,
+      "smoking_oz": 2710.536
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 13527127,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3671.508
+    "2026-02-06": {
+      "locations": 25,
+      "mg_thc": 9151687,
+      "mg_cbd": 435,
+      "smoking_oz": 2590.307
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 16237550,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4778.389
+    "2026-02-13": {
+      "locations": 25,
+      "mg_thc": 9833777,
+      "mg_cbd": 398,
+      "smoking_oz": 2720.884
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12581297,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6428.433
+    "2026-02-20": {
+      "locations": 25,
+      "mg_thc": 9945339,
+      "mg_cbd": 0,
+      "smoking_oz": 2687.39
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 10586661,
-      "Low-THC Cannabis (mg CBD)": 145,
-      "Smoking (oz)": 2477.832
+    "2026-02-27": {
+      "locations": 25,
+      "mg_thc": 10584832,
+      "mg_cbd": 0,
+      "smoking_oz": 2701.396
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9923198,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4970.436
+    "2026-03-06": {
+      "locations": 25,
+      "mg_thc": 10586661,
+      "mg_cbd": 145,
+      "smoking_oz": 2477.832
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 17544906,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3706.038
+    "2026-03-13": {
+      "locations": 25,
+      "mg_thc": 11460148,
+      "mg_cbd": 1160,
+      "smoking_oz": 2851.084
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 9197545,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3839.31
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 8476906,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2797.633
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9837243,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4892.521
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 11095127,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2432.362
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3578897,
-      "Low-THC Cannabis (mg CBD)": 770,
-      "Smoking (oz)": 688.625
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 13,
-      "Medical Marijuana (mg THC)": 12512889,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1558.302
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3032878,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1133.973
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 1919130,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 352.398
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 59293,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 38.032
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1.235
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 25,
+      "mg_thc": 11428740,
+      "mg_cbd": 145,
+      "smoking_oz": 2705.48
     }
-  ],
-  "2026-03-13": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 165,
-      "Medical Marijuana (mg THC)": 114961623,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 52260.849
+  },
+  "Sanctuary Cannabis": {
+    "2026-01-02": {
+      "locations": 25,
+      "mg_thc": 9064817,
+      "mg_cbd": 0,
+      "smoking_oz": 4558.741
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 84,
-      "Medical Marijuana (mg THC)": 46794964,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15858.96
+    "2026-01-09": {
+      "locations": 25,
+      "mg_thc": 8457613,
+      "mg_cbd": 0,
+      "smoking_oz": 5094.943
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 46317928,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 14858.518
+    "2026-01-16": {
+      "locations": 25,
+      "mg_thc": 8824826,
+      "mg_cbd": 0,
+      "smoking_oz": 5252.442
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 38823930,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8793.593
+    "2026-01-23": {
+      "locations": 25,
+      "mg_thc": 9435004,
+      "mg_cbd": 0,
+      "smoking_oz": 5440.102
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 32898462,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 7101.181
+    "2026-01-30": {
+      "locations": 25,
+      "mg_thc": 10356455,
+      "mg_cbd": 0,
+      "smoking_oz": 5966.612
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 14558881,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3465.12
+    "2026-02-06": {
+      "locations": 25,
+      "mg_thc": 9810778,
+      "mg_cbd": 0,
+      "smoking_oz": 6167.96
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15896951,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4451.284
+    "2026-02-13": {
+      "locations": 25,
+      "mg_thc": 7905879,
+      "mg_cbd": 0,
+      "smoking_oz": 5366.45
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 12969671,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6529.377
+    "2026-02-20": {
+      "locations": 25,
+      "mg_thc": 9354701,
+      "mg_cbd": 0,
+      "smoking_oz": 5411.234
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 11460148,
-      "Low-THC Cannabis (mg CBD)": 1160,
-      "Smoking (oz)": 2851.084
+    "2026-02-27": {
+      "locations": 25,
+      "mg_thc": 10504506,
+      "mg_cbd": 0,
+      "smoking_oz": 5671.758
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9876652,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 5033.914
+    "2026-03-06": {
+      "locations": 25,
+      "mg_thc": 9923198,
+      "mg_cbd": 0,
+      "smoking_oz": 4970.436
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 17132612,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3765.709
+    "2026-03-13": {
+      "locations": 25,
+      "mg_thc": 9876652,
+      "mg_cbd": 0,
+      "smoking_oz": 5033.914
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 8578545,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3871.523
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 7568301,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2760.915
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9641268,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4759.275
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 11588951,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2698.068
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3966644,
-      "Low-THC Cannabis (mg CBD)": 1750,
-      "Smoking (oz)": 711.095
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 13,
-      "Medical Marijuana (mg THC)": 12881126,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1586.112
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3200608,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1136.917
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2014878,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 372.639
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 2,
-      "Medical Marijuana (mg THC)": 37788,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 26.736
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 25,
+      "mg_thc": 9365247,
+      "mg_cbd": 0,
+      "smoking_oz": 4264.475
     }
-  ],
-  "2026-03-20": [
-    {
-      "MMTC Name": "Trulieve",
-      "Dispensing Locations": 165,
-      "Medical Marijuana (mg THC)": 113562009,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 52534.912
+  },
+  "GTI Florida, LLC": {
+    "2026-01-02": {
+      "locations": 22,
+      "mg_thc": 18490339,
+      "mg_cbd": 0,
+      "smoking_oz": 3725.574
     },
-    {
-      "MMTC Name": "M\u00dcV",
-      "Dispensing Locations": 84,
-      "Medical Marijuana (mg THC)": 51773739,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 16606.979
+    "2026-01-09": {
+      "locations": 22,
+      "mg_thc": 15630147,
+      "mg_cbd": 0,
+      "smoking_oz": 3412.174
     },
-    {
-      "MMTC Name": "Curaleaf Florida, LLC",
-      "Dispensing Locations": 70,
-      "Medical Marijuana (mg THC)": 52205296,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 15201.529
+    "2026-01-16": {
+      "locations": 22,
+      "mg_thc": 16470849,
+      "mg_cbd": 0,
+      "smoking_oz": 3623.365
     },
-    {
-      "MMTC Name": "Ayr Cannabis Dispensary",
-      "Dispensing Locations": 64,
-      "Medical Marijuana (mg THC)": 37991027,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8162.224
+    "2026-01-23": {
+      "locations": 22,
+      "mg_thc": 16445908,
+      "mg_cbd": 0,
+      "smoking_oz": 3591.409
     },
-    {
-      "MMTC Name": "Surterra Wellness",
-      "Dispensing Locations": 45,
-      "Medical Marijuana (mg THC)": 29398868,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 8424.162
+    "2026-01-30": {
+      "locations": 22,
+      "mg_thc": 16961103,
+      "mg_cbd": 0,
+      "smoking_oz": 3563.396
     },
-    {
-      "MMTC Name": "Green Dragon",
-      "Dispensing Locations": 40,
-      "Medical Marijuana (mg THC)": 17285691,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4723.484
+    "2026-02-06": {
+      "locations": 22,
+      "mg_thc": 17639185,
+      "mg_cbd": 0,
+      "smoking_oz": 3630.281
     },
-    {
-      "MMTC Name": "FLUENT",
-      "Dispensing Locations": 32,
-      "Medical Marijuana (mg THC)": 15515772,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4086.457
+    "2026-02-13": {
+      "locations": 22,
+      "mg_thc": 16797636,
+      "mg_cbd": 0,
+      "smoking_oz": 3522.652
     },
-    {
-      "MMTC Name": "Sunnyside*",
-      "Dispensing Locations": 31,
-      "Medical Marijuana (mg THC)": 13376320,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 6458.166
+    "2026-02-20": {
+      "locations": 22,
+      "mg_thc": 16845026,
+      "mg_cbd": 0,
+      "smoking_oz": 3470.919
     },
-    {
-      "MMTC Name": "GrowHealthy",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 11428740,
-      "Low-THC Cannabis (mg CBD)": 145,
-      "Smoking (oz)": 2705.48
+    "2026-02-27": {
+      "locations": 22,
+      "mg_thc": 17918452,
+      "mg_cbd": 0,
+      "smoking_oz": 3639.815
     },
-    {
-      "MMTC Name": "Sanctuary Cannabis",
-      "Dispensing Locations": 25,
-      "Medical Marijuana (mg THC)": 9365247,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4264.475
+    "2026-03-06": {
+      "locations": 22,
+      "mg_thc": 17544906,
+      "mg_cbd": 0,
+      "smoking_oz": 3706.038
     },
-    {
-      "MMTC Name": "GTI Florida, LLC",
-      "Dispensing Locations": 22,
-      "Medical Marijuana (mg THC)": 17812461,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 3721.358
+    "2026-03-13": {
+      "locations": 22,
+      "mg_thc": 17132612,
+      "mg_cbd": 0,
+      "smoking_oz": 3765.709
     },
-    {
-      "MMTC Name": "Cookies Florida",
-      "Dispensing Locations": 19,
-      "Medical Marijuana (mg THC)": 11697613,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4875.435
-    },
-    {
-      "MMTC Name": "The Flowery",
-      "Dispensing Locations": 16,
-      "Medical Marijuana (mg THC)": 9766719,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2777.243
-    },
-    {
-      "MMTC Name": "Jungle Boys",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 9960310,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 4988.914
-    },
-    {
-      "MMTC Name": "Sunburn",
-      "Dispensing Locations": 15,
-      "Medical Marijuana (mg THC)": 12302676,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 2808.036
-    },
-    {
-      "MMTC Name": "Mint Cannabis",
-      "Dispensing Locations": 14,
-      "Medical Marijuana (mg THC)": 3744047,
-      "Low-THC Cannabis (mg CBD)": 1260,
-      "Smoking (oz)": 703.844
-    },
-    {
-      "MMTC Name": "Goldflower Cannabis",
-      "Dispensing Locations": 13,
-      "Medical Marijuana (mg THC)": 12837027,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1516.009
-    },
-    {
-      "MMTC Name": "Insa - Cannabis for Real Life",
-      "Dispensing Locations": 9,
-      "Medical Marijuana (mg THC)": 3249813,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 1189.06
-    },
-    {
-      "MMTC Name": "One Plant Cannabis",
-      "Dispensing Locations": 6,
-      "Medical Marijuana (mg THC)": 2177882,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 374.011
-    },
-    {
-      "MMTC Name": "Eden Florida, LLC",
-      "Dispensing Locations": 4,
-      "Medical Marijuana (mg THC)": 57996,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 30.467
-    },
-    {
-      "MMTC Name": "Fino Cannabis",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Prosperity Medical, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "Revolution Florida",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
-    },
-    {
-      "MMTC Name": "TheraTrue Florida, LLC",
-      "Dispensing Locations": 0,
-      "Medical Marijuana (mg THC)": 0,
-      "Low-THC Cannabis (mg CBD)": 0,
-      "Smoking (oz)": 0.0
+    "2026-03-20": {
+      "locations": 22,
+      "mg_thc": 17812461,
+      "mg_cbd": 0,
+      "smoking_oz": 3721.358
     }
-  ]
+  },
+  "Cookies Florida": {
+    "2026-01-02": {
+      "locations": 19,
+      "mg_thc": 9028913,
+      "mg_cbd": 0,
+      "smoking_oz": 3805.689
+    },
+    "2026-01-09": {
+      "locations": 19,
+      "mg_thc": 6143143,
+      "mg_cbd": 0,
+      "smoking_oz": 2417.886
+    },
+    "2026-01-16": {
+      "locations": 19,
+      "mg_thc": 7083481,
+      "mg_cbd": 0,
+      "smoking_oz": 3263.382
+    },
+    "2026-01-23": {
+      "locations": 19,
+      "mg_thc": 7686978,
+      "mg_cbd": 0,
+      "smoking_oz": 2766.409
+    },
+    "2026-01-30": {
+      "locations": 19,
+      "mg_thc": 7509299,
+      "mg_cbd": 0,
+      "smoking_oz": 2837.287
+    },
+    "2026-02-06": {
+      "locations": 19,
+      "mg_thc": 7924911,
+      "mg_cbd": 0,
+      "smoking_oz": 3115.797
+    },
+    "2026-02-13": {
+      "locations": 19,
+      "mg_thc": 7923800,
+      "mg_cbd": 0,
+      "smoking_oz": 3229.632
+    },
+    "2026-02-20": {
+      "locations": 19,
+      "mg_thc": 9584903,
+      "mg_cbd": 0,
+      "smoking_oz": 3546.598
+    },
+    "2026-02-27": {
+      "locations": 19,
+      "mg_thc": 10969381,
+      "mg_cbd": 0,
+      "smoking_oz": 3737.725
+    },
+    "2026-03-06": {
+      "locations": 19,
+      "mg_thc": 9197545,
+      "mg_cbd": 0,
+      "smoking_oz": 3839.31
+    },
+    "2026-03-13": {
+      "locations": 19,
+      "mg_thc": 8578545,
+      "mg_cbd": 0,
+      "smoking_oz": 3871.523
+    },
+    "2026-03-20": {
+      "locations": 19,
+      "mg_thc": 11697613,
+      "mg_cbd": 0,
+      "smoking_oz": 4875.435
+    }
+  },
+  "Jungle Boys": {
+    "2026-01-02": {
+      "locations": 15,
+      "mg_thc": 7968064,
+      "mg_cbd": 0,
+      "smoking_oz": 4794.013
+    },
+    "2026-01-09": {
+      "locations": 15,
+      "mg_thc": 7690068,
+      "mg_cbd": 0,
+      "smoking_oz": 4670.129
+    },
+    "2026-01-16": {
+      "locations": 15,
+      "mg_thc": 8998158,
+      "mg_cbd": 0,
+      "smoking_oz": 5519.242
+    },
+    "2026-01-23": {
+      "locations": 15,
+      "mg_thc": 8570983,
+      "mg_cbd": 0,
+      "smoking_oz": 4850.983
+    },
+    "2026-01-30": {
+      "locations": 15,
+      "mg_thc": 8483562,
+      "mg_cbd": 0,
+      "smoking_oz": 4688.724
+    },
+    "2026-02-06": {
+      "locations": 15,
+      "mg_thc": 8556032,
+      "mg_cbd": 0,
+      "smoking_oz": 4594.188
+    },
+    "2026-02-13": {
+      "locations": 15,
+      "mg_thc": 9243916,
+      "mg_cbd": 0,
+      "smoking_oz": 4545.361
+    },
+    "2026-02-20": {
+      "locations": 15,
+      "mg_thc": 9063639,
+      "mg_cbd": 0,
+      "smoking_oz": 4825.019
+    },
+    "2026-02-27": {
+      "locations": 15,
+      "mg_thc": 9488157,
+      "mg_cbd": 0,
+      "smoking_oz": 4838.599
+    },
+    "2026-03-06": {
+      "locations": 15,
+      "mg_thc": 9837243,
+      "mg_cbd": 0,
+      "smoking_oz": 4892.521
+    },
+    "2026-03-13": {
+      "locations": 15,
+      "mg_thc": 9641268,
+      "mg_cbd": 0,
+      "smoking_oz": 4759.275
+    },
+    "2026-03-20": {
+      "locations": 15,
+      "mg_thc": 9960310,
+      "mg_cbd": 0,
+      "smoking_oz": 4988.914
+    }
+  },
+  "Sunburn": {
+    "2026-01-02": {
+      "locations": 15,
+      "mg_thc": 15229765,
+      "mg_cbd": 0,
+      "smoking_oz": 3848.357
+    },
+    "2026-01-09": {
+      "locations": 15,
+      "mg_thc": 10624206,
+      "mg_cbd": 0,
+      "smoking_oz": 2654.414
+    },
+    "2026-01-16": {
+      "locations": 15,
+      "mg_thc": 12378711,
+      "mg_cbd": 0,
+      "smoking_oz": 2649.819
+    },
+    "2026-01-23": {
+      "locations": 15,
+      "mg_thc": 11767124,
+      "mg_cbd": 0,
+      "smoking_oz": 2932.614
+    },
+    "2026-01-30": {
+      "locations": 15,
+      "mg_thc": 13457263,
+      "mg_cbd": 0,
+      "smoking_oz": 3229.111
+    },
+    "2026-02-06": {
+      "locations": 15,
+      "mg_thc": 13236992,
+      "mg_cbd": 0,
+      "smoking_oz": 2864.582
+    },
+    "2026-02-13": {
+      "locations": 15,
+      "mg_thc": 9757737,
+      "mg_cbd": 0,
+      "smoking_oz": 2240.254
+    },
+    "2026-02-20": {
+      "locations": 15,
+      "mg_thc": 12718010,
+      "mg_cbd": 0,
+      "smoking_oz": 2778.575
+    },
+    "2026-02-27": {
+      "locations": 15,
+      "mg_thc": 11630590,
+      "mg_cbd": 0,
+      "smoking_oz": 2971.123
+    },
+    "2026-03-06": {
+      "locations": 15,
+      "mg_thc": 11095127,
+      "mg_cbd": 0,
+      "smoking_oz": 2432.362
+    },
+    "2026-03-13": {
+      "locations": 15,
+      "mg_thc": 11588951,
+      "mg_cbd": 0,
+      "smoking_oz": 2698.068
+    },
+    "2026-03-20": {
+      "locations": 15,
+      "mg_thc": 12302676,
+      "mg_cbd": 0,
+      "smoking_oz": 2808.036
+    }
+  },
+  "The Flowery": {
+    "2026-01-02": {
+      "locations": 15,
+      "mg_thc": 8890877,
+      "mg_cbd": 0,
+      "smoking_oz": 3335.937
+    },
+    "2026-01-09": {
+      "locations": 15,
+      "mg_thc": 5884258,
+      "mg_cbd": 0,
+      "smoking_oz": 2299.528
+    },
+    "2026-01-16": {
+      "locations": 16,
+      "mg_thc": 6990897,
+      "mg_cbd": 0,
+      "smoking_oz": 2395.842
+    },
+    "2026-01-23": {
+      "locations": 16,
+      "mg_thc": 7114831,
+      "mg_cbd": 0,
+      "smoking_oz": 2386.946
+    },
+    "2026-01-30": {
+      "locations": 16,
+      "mg_thc": 8177064,
+      "mg_cbd": 0,
+      "smoking_oz": 2650.741
+    },
+    "2026-02-06": {
+      "locations": 16,
+      "mg_thc": 7685830,
+      "mg_cbd": 0,
+      "smoking_oz": 2623.113
+    },
+    "2026-02-13": {
+      "locations": 16,
+      "mg_thc": 7682936,
+      "mg_cbd": 0,
+      "smoking_oz": 2474.55
+    },
+    "2026-02-20": {
+      "locations": 16,
+      "mg_thc": 8081733,
+      "mg_cbd": 0,
+      "smoking_oz": 2703.398
+    },
+    "2026-02-27": {
+      "locations": 16,
+      "mg_thc": 8485956,
+      "mg_cbd": 0,
+      "smoking_oz": 2925.863
+    },
+    "2026-03-06": {
+      "locations": 16,
+      "mg_thc": 8476906,
+      "mg_cbd": 0,
+      "smoking_oz": 2797.633
+    },
+    "2026-03-13": {
+      "locations": 16,
+      "mg_thc": 7568301,
+      "mg_cbd": 0,
+      "smoking_oz": 2760.915
+    },
+    "2026-03-20": {
+      "locations": 16,
+      "mg_thc": 9766719,
+      "mg_cbd": 0,
+      "smoking_oz": 2777.243
+    }
+  },
+  "Mint Cannabis": {
+    "2026-01-02": {
+      "locations": 14,
+      "mg_thc": 3316417,
+      "mg_cbd": 0,
+      "smoking_oz": 621.429
+    },
+    "2026-01-09": {
+      "locations": 14,
+      "mg_thc": 3344095,
+      "mg_cbd": 0,
+      "smoking_oz": 594.392
+    },
+    "2026-01-16": {
+      "locations": 14,
+      "mg_thc": 3364741,
+      "mg_cbd": 0,
+      "smoking_oz": 696.701
+    },
+    "2026-01-23": {
+      "locations": 14,
+      "mg_thc": 3392767,
+      "mg_cbd": 0,
+      "smoking_oz": 674.597
+    },
+    "2026-01-30": {
+      "locations": 14,
+      "mg_thc": 3312096,
+      "mg_cbd": 0,
+      "smoking_oz": 670.816
+    },
+    "2026-02-06": {
+      "locations": 14,
+      "mg_thc": 3243137,
+      "mg_cbd": 0,
+      "smoking_oz": 562.491
+    },
+    "2026-02-13": {
+      "locations": 14,
+      "mg_thc": 3360853,
+      "mg_cbd": 0,
+      "smoking_oz": 731.707
+    },
+    "2026-02-20": {
+      "locations": 14,
+      "mg_thc": 3192643,
+      "mg_cbd": 0,
+      "smoking_oz": 705.068
+    },
+    "2026-02-27": {
+      "locations": 14,
+      "mg_thc": 3295091,
+      "mg_cbd": 0,
+      "smoking_oz": 668.352
+    },
+    "2026-03-06": {
+      "locations": 14,
+      "mg_thc": 3578897,
+      "mg_cbd": 770,
+      "smoking_oz": 688.625
+    },
+    "2026-03-13": {
+      "locations": 14,
+      "mg_thc": 3966644,
+      "mg_cbd": 1750,
+      "smoking_oz": 711.095
+    },
+    "2026-03-20": {
+      "locations": 14,
+      "mg_thc": 3744047,
+      "mg_cbd": 1260,
+      "smoking_oz": 703.844
+    }
+  },
+  "Goldflower Cannabis": {
+    "2026-01-02": {
+      "locations": 11,
+      "mg_thc": 7489250,
+      "mg_cbd": 0,
+      "smoking_oz": 939.333
+    },
+    "2026-01-09": {
+      "locations": 11,
+      "mg_thc": 7270446,
+      "mg_cbd": 0,
+      "smoking_oz": 1073.86
+    },
+    "2026-01-16": {
+      "locations": 12,
+      "mg_thc": 7960940,
+      "mg_cbd": 0,
+      "smoking_oz": 874.423
+    },
+    "2026-01-23": {
+      "locations": 12,
+      "mg_thc": 8102467,
+      "mg_cbd": 0,
+      "smoking_oz": 773.485
+    },
+    "2026-01-30": {
+      "locations": 12,
+      "mg_thc": 10269391,
+      "mg_cbd": 0,
+      "smoking_oz": 912.049
+    },
+    "2026-02-06": {
+      "locations": 12,
+      "mg_thc": 10473079,
+      "mg_cbd": 0,
+      "smoking_oz": 1216.457
+    },
+    "2026-02-13": {
+      "locations": 12,
+      "mg_thc": 10339017,
+      "mg_cbd": 0,
+      "smoking_oz": 1147.901
+    },
+    "2026-02-20": {
+      "locations": 12,
+      "mg_thc": 11418569,
+      "mg_cbd": 0,
+      "smoking_oz": 1340.78
+    },
+    "2026-02-27": {
+      "locations": 13,
+      "mg_thc": 12458101,
+      "mg_cbd": 0,
+      "smoking_oz": 1508.774
+    },
+    "2026-03-06": {
+      "locations": 13,
+      "mg_thc": 12512889,
+      "mg_cbd": 0,
+      "smoking_oz": 1558.302
+    },
+    "2026-03-13": {
+      "locations": 13,
+      "mg_thc": 12881126,
+      "mg_cbd": 0,
+      "smoking_oz": 1586.112
+    },
+    "2026-03-20": {
+      "locations": 13,
+      "mg_thc": 12837027,
+      "mg_cbd": 0,
+      "smoking_oz": 1516.009
+    }
+  },
+  "Insa - Cannabis for Real Life": {
+    "2026-01-02": {
+      "locations": 9,
+      "mg_thc": 3653680,
+      "mg_cbd": 0,
+      "smoking_oz": 1373.132
+    },
+    "2026-01-09": {
+      "locations": 9,
+      "mg_thc": 3307997,
+      "mg_cbd": 0,
+      "smoking_oz": 1223.568
+    },
+    "2026-01-16": {
+      "locations": 9,
+      "mg_thc": 3436818,
+      "mg_cbd": 0,
+      "smoking_oz": 1290.278
+    },
+    "2026-01-23": {
+      "locations": 9,
+      "mg_thc": 3346838,
+      "mg_cbd": 0,
+      "smoking_oz": 1288.736
+    },
+    "2026-01-30": {
+      "locations": 9,
+      "mg_thc": 3368435,
+      "mg_cbd": 0,
+      "smoking_oz": 1276.084
+    },
+    "2026-02-06": {
+      "locations": 9,
+      "mg_thc": 3428142,
+      "mg_cbd": 0,
+      "smoking_oz": 1190.24
+    },
+    "2026-02-13": {
+      "locations": 9,
+      "mg_thc": 3232183,
+      "mg_cbd": 0,
+      "smoking_oz": 1116.37
+    },
+    "2026-02-20": {
+      "locations": 9,
+      "mg_thc": 3399314,
+      "mg_cbd": 0,
+      "smoking_oz": 1162.456
+    },
+    "2026-02-27": {
+      "locations": 9,
+      "mg_thc": 3258469,
+      "mg_cbd": 0,
+      "smoking_oz": 1235.163
+    },
+    "2026-03-06": {
+      "locations": 9,
+      "mg_thc": 3032878,
+      "mg_cbd": 0,
+      "smoking_oz": 1133.973
+    },
+    "2026-03-13": {
+      "locations": 9,
+      "mg_thc": 3200608,
+      "mg_cbd": 0,
+      "smoking_oz": 1136.917
+    },
+    "2026-03-20": {
+      "locations": 9,
+      "mg_thc": 3249813,
+      "mg_cbd": 0,
+      "smoking_oz": 1189.06
+    }
+  },
+  "One Plant Cannabis": {
+    "2026-01-02": {
+      "locations": 6,
+      "mg_thc": 2188732,
+      "mg_cbd": 0,
+      "smoking_oz": 353.678
+    },
+    "2026-01-09": {
+      "locations": 6,
+      "mg_thc": 2001528,
+      "mg_cbd": 0,
+      "smoking_oz": 313.465
+    },
+    "2026-01-16": {
+      "locations": 6,
+      "mg_thc": 1945686,
+      "mg_cbd": 0,
+      "smoking_oz": 341.798
+    },
+    "2026-01-23": {
+      "locations": 6,
+      "mg_thc": 1970961,
+      "mg_cbd": 0,
+      "smoking_oz": 383.404
+    },
+    "2026-01-30": {
+      "locations": 6,
+      "mg_thc": 2157031,
+      "mg_cbd": 0,
+      "smoking_oz": 387.609
+    },
+    "2026-02-06": {
+      "locations": 6,
+      "mg_thc": 2075591,
+      "mg_cbd": 0,
+      "smoking_oz": 366.046
+    },
+    "2026-02-13": {
+      "locations": 6,
+      "mg_thc": 2056924,
+      "mg_cbd": 0,
+      "smoking_oz": 409.593
+    },
+    "2026-02-20": {
+      "locations": 6,
+      "mg_thc": 1836956,
+      "mg_cbd": 0,
+      "smoking_oz": 392.8
+    },
+    "2026-02-27": {
+      "locations": 6,
+      "mg_thc": 2102044,
+      "mg_cbd": 0,
+      "smoking_oz": 401.898
+    },
+    "2026-03-06": {
+      "locations": 6,
+      "mg_thc": 1919130,
+      "mg_cbd": 0,
+      "smoking_oz": 352.398
+    },
+    "2026-03-13": {
+      "locations": 6,
+      "mg_thc": 2014878,
+      "mg_cbd": 0,
+      "smoking_oz": 372.639
+    },
+    "2026-03-20": {
+      "locations": 6,
+      "mg_thc": 2177882,
+      "mg_cbd": 0,
+      "smoking_oz": 374.011
+    }
+  },
+  "Eden Florida, LLC": {
+    "2026-01-02": {
+      "locations": 2,
+      "mg_thc": 84328,
+      "mg_cbd": 0,
+      "smoking_oz": 35.56
+    },
+    "2026-01-09": {
+      "locations": 2,
+      "mg_thc": 94460,
+      "mg_cbd": 0,
+      "smoking_oz": 28.126
+    },
+    "2026-01-16": {
+      "locations": 2,
+      "mg_thc": 111379,
+      "mg_cbd": 0,
+      "smoking_oz": 30.25
+    },
+    "2026-01-23": {
+      "locations": 2,
+      "mg_thc": 71975,
+      "mg_cbd": 0,
+      "smoking_oz": 25.952
+    },
+    "2026-01-30": {
+      "locations": 2,
+      "mg_thc": 70354,
+      "mg_cbd": 0,
+      "smoking_oz": 20.62
+    },
+    "2026-02-06": {
+      "locations": 2,
+      "mg_thc": 81172,
+      "mg_cbd": 0,
+      "smoking_oz": 25.529
+    },
+    "2026-02-13": {
+      "locations": 2,
+      "mg_thc": 57565,
+      "mg_cbd": 0,
+      "smoking_oz": 36.6
+    },
+    "2026-02-20": {
+      "locations": 2,
+      "mg_thc": 59853,
+      "mg_cbd": 0,
+      "smoking_oz": 29.616
+    },
+    "2026-02-27": {
+      "locations": 2,
+      "mg_thc": 58525,
+      "mg_cbd": 0,
+      "smoking_oz": 28.157
+    },
+    "2026-03-06": {
+      "locations": 2,
+      "mg_thc": 59293,
+      "mg_cbd": 0,
+      "smoking_oz": 38.032
+    },
+    "2026-03-13": {
+      "locations": 2,
+      "mg_thc": 37788,
+      "mg_cbd": 0,
+      "smoking_oz": 26.736
+    },
+    "2026-03-20": {
+      "locations": 4,
+      "mg_thc": 57996,
+      "mg_cbd": 0,
+      "smoking_oz": 30.467
+    }
+  },
+  "Fino Cannabis": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "Prosperity Medical, LLC": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 23.582
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 1.235
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "Revolution Florida": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "TheraTrue Florida, LLC": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "Henry Crusaw": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "Leola Robinson": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  },
+  "Moton Hopkins Jr.": {
+    "2026-01-02": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-09": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-16": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-23": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-01-30": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-02-27": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-06": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-13": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    },
+    "2026-03-20": {
+      "locations": 0,
+      "mg_thc": 0,
+      "mg_cbd": 0,
+      "smoking_oz": 0.0
+    }
+  }
 }

@@ -12,7 +12,7 @@ Weekly data extracted from OMMU PDF reports covering 12 weeks (January 2 - March
 - CBD milligrams sold  
 - Smoking products (ounces) sold
 
-**Operators:** 24 licensed cannabis dispensaries in Florida
+**Operators:** 28 licensed cannabis dispensaries in Florida (25 active MMTCs + 3 legacy license holders)
 
 ## Data Files (`/data`)
 
@@ -28,7 +28,8 @@ Weekly data extracted from OMMU PDF reports covering 12 weeks (January 2 - March
 
 ## Scripts (`/scripts`)
 
-- `extract_data_simple.py` - Main PDF extraction script
+- `extract_complete_data.py` - **Complete extraction ensuring all 28 operators**
+- `extract_data_simple.py` - Original PDF extraction script (incomplete)
 - `extract_mmtc_data.py` - Alternative extraction approach
 - `csv_to_xlsx_manual.py` - CSV to Excel converter
 - `create_excel.py` - Excel workbook generator
@@ -48,6 +49,11 @@ Operator Name,value,value,value,...
 3. **Curaleaf** - 69-70 locations
 4. **Ayr Cannabis** - 64-66 locations
 5. **Surterra Wellness** - 45 locations
+6. **Green Dragon** - 40 locations
+7. **Planet 13 Florida** - 33 locations (formerly VidaCann)
+8. **FLUENT** - 32-33 locations
+9. **Sunnyside** - 31 locations
+10. **GrowHealthy** - 25 locations
 
 ## Usage
 
