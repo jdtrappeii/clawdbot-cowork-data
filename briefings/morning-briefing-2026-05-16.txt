@@ -1,0 +1,42 @@
+# Morning Briefing — Saturday, May 16, 2026 — 5:00 AM
+
+---
+
+## Calendar
+St. Augustine stay wraps today — the May 11–15 booking end date suggests checkout is either this morning or already past. Confirm checkout time and logistics. No meetings scheduled. Travel day likely.
+
+---
+
+## Email Triage
+
+**🔴 Act now:**
+- **Google — Critical security alert** → Open first. Could be nothing, could be account compromise. Don't let this sit.
+- **Apple (x2) — iCloud sign-in via web browser** → Two separate sign-in alerts. If you didn't initiate these, change your password today. Back-to-back hits from Apple and Google is a pattern worth taking seriously.
+- **GitHub — Personal access token added** → Did you do this? If not, token needs to be revoked immediately.
+
+**🟡 Low priority / no action needed:**
+- Credit Karma score change — glance at it if you're curious, nothing urgent.
+- Everything else (OpticsPlanet, Calm, At Home, RH Teen, Bigtoe, Adventure Island, Anthropic receipt, Experian badge) — noise. Archive and move on.
+
+---
+
+## Project Status
+Drive shows fresh activity from this morning across three files:
+- **morning-briefing-2026-05-16.txt** — active (this)
+- **competitive-intel-2026-05-16.txt** — updated twice today, likely auto-generated; review when you're at a screen
+- **gmail-cleanup-2026-05-16.txt** — flagged for cleanup; may have actionable items inside
+
+Nothing looks stale — everything touched today. The duplicate entries suggest automated writes, not manual edits.
+
+---
+
+## Day Plan
+- **Security audit first** — Google alert + two Apple sign-ins + GitHub token = too many flags to ignore on a Saturday. 20 minutes, handle it clean.
+- **Confirm St. Augustine checkout** — know your window before you're rushing.
+- **Review competitive-intel file** — fresh as of this morning, worth a quick read before the week spins up.
+- **Travel / decompress** — weekend's almost done. Drive home clear-headed.
+- **Prep Monday headspace** — Q1 numbers showed +23% growth against a flat market. That story needs to be in front of the right people next week.
+
+---
+
+*Work email (O365) still dark — IT approval pending. Anything urgent on the ops side is invisible until that's resolved. Flag IT Monday morning.*
