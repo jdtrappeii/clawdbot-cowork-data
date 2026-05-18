@@ -1,0 +1,75 @@
+# Gmail Cleanup Report — Monday, May 18, 2026
+
+---
+
+## UNSUBSCRIBE THESE (cut without hesitation)
+
+These add zero COO value. Kill them now.
+
+| Sender | Why |
+|---|---|
+| **MÜV** | Competitor promo. Conflict of interest. Gone. |
+| **Trulieve** | Competitor promo. Same reason. Gone. |
+| **Goldflower FL** | Competitor promo. Gone. |
+| **Surterra** | Competitor promo. Gone. |
+| **GODIVA** | Chocolate marketing. Not a COO problem. |
+| **Crate & Barrel** | Furniture ads. No. |
+| **RH** | Furniture sale emails. No. |
+| **Office Depot** | Retail promo. Not worth your attention. |
+| **Optimal Wellness** | Vitamin specials and cafecito. Hard no. |
+| **Karin From Noom** | Weight loss app onboarding. Unsubscribe and delete. |
+| **Best Egg** | Unsolicited loan offers. Red flag. Unsubscribe immediately. |
+| **RaceDayQuads** | Abandoned cart nudge. If you want it, go buy it. Don't let them chase you. |
+| **Bauer Precision** | Firearms newsletter. Personal interest, not inbox-worthy. |
+
+---
+
+## REVIEW BEFORE CUTTING (borderline)
+
+These have *some* legitimate value but are creating noise. Make a call.
+
+| Sender | Situation | Recommendation |
+|---|---|---|
+| **Planet 13 FL** `florida@planet13.com` | You're COO. You shouldn't be *receiving* your own company's marketing emails — you should be *approving* them upstream. | **Unsubscribe.** Get a direct briefing from marketing instead. |
+| **Leila Hormozi** | Business/growth content. Could be useful. | Keep only if you're actually reading it. Be honest with yourself. |
+| **GitHub** | Copilot feature updates. Relevant if you're overseeing tech/dev. | Keep if you have a dev team. Unsubscribe if you don't touch it. |
+| **Looker** | Daily Snapshot — operational data. | **Keep if you're acting on it.** Archive-auto-label if not. |
+| **Arizona Yagé Assembly** | Personal/spiritual. Not COO business. | Move to personal account or unsubscribe. |
+| **Joy** | Looks like a wedding/event planning app. Guest management? | Identify the event. If it's done, unsubscribe. |
+| **Klarna** | Payment plans. `Frontier Web` reference suggests a business purchase. | Review the 4 emails, confirm payments are on track, then unsubscribe from marketing. |
+
+---
+
+## HIGH-VOLUME NON-SUBSCRIPTION SENDERS
+
+These aren't spam but need a system, not your eyeballs every time.
+
+| Sender | Volume | Action |
+|---|---|---|
+| **Google Business Profile** | 7 emails | Review reviews are being responded to by your team. Set up a **filter → label "GBP Reviews"**, auto-archive. Spot-check weekly — don't triage daily. |
+| **River Landing Community (TownSq)** | 6 emails | Personal/HOA. Create a **filter → label "HOA"**, skip inbox entirely. Check it when you're home. |
+| **eBay** | 6 emails | DJI Avata drone purchase in progress. Create a **filter → label "Orders"** for shipping updates. Delete after delivery confirmed. |
+| **Google Calendar** | 5 emails | Calendar notifications hitting email means your notification settings are wrong, not your inbox. **Disable email delivery for calendar alerts** — use push notifications on your phone only. |
+| **Experian** | 4 emails | "Vehicle detected" alerts = credit monitoring. Important but not urgent. **Filter → label "Credit Alerts"**, skip inbox. Review weekly. |
+| **USAA** | 3 emails | Debit card declined = **action required today.** Check these now, then filter future USAA alerts to a **"Banking"** label that stays visible. |
+| **PayPal** | 3 emails | Device trust / security emails. Review for anything suspicious, then filter to **"Security Alerts"** label. Don't ignore these entirely. |
+| **Costco Citi Visa** | 2 emails | Locked card + declined transaction. **Review today.** Possible fraud or card issue. |
+| **Spectrum** | 2 emails | TP-Link router security alert. **Legitimate security warning — act on this.** Forward to whoever manages your network. |
+
+---
+
+## QUICK WINS
+
+Do these in the next 15 minutes.
+
+1. **🚨 Act now:** USAA declined debit card + Costco Citi locked card. Two separate card issues in your inbox right now. Resolve today.
+2. **🔒 Security:** Spectrum TP-Link router advisory is a real vulnerability notice. Don't ignore it. Delegate to IT or handle personally.
+3. **✅ Google Account recovery email** — confirm *you* triggered this. If not, treat it as a breach. Check immediately.
+4. **📦 eBay/DJI Avata** — out for delivery. Just make sure someone's home or it's going to a secure location.
+5. **🗑️ Bulk delete** all competitor promo emails (MÜV, Trulieve, Surterra, Goldflower) before unsubscribing. You don't need a paper trail of reading competitor deals.
+6. **Turn off calendar email notifications.** 5 emails this week about your own calendar is 5 too many. Go to Google Calendar → Settings → and switch notifications to mobile only.
+7. **Create 4 filters this week:** `GBP Reviews` / `Orders` / `Banking & Credit` / `HOA` — these alone will clear roughly 25+ emails from your active inbox view.
+
+---
+
+**Bottom line:** Your inbox has 3 real action items today (USAA, Citi, Google security), 4 competitors wasting your time, and a calendar notification problem that's entirely self-inflicted.
