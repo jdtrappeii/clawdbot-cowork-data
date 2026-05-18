@@ -1,37 +1,39 @@
-# Morning Briefing — Sunday, May 17, 2026
-
-## Calendar
-**9:00 AM — J+J ❤️🔥** — That's the day. Protect it. Nothing else on the books, which is correct.
+MORNING BRIEFING — Sunday, May 17, 2026
 
 ---
 
-## Email Triage
-Nothing in personal Gmail requires action today. Highlights for awareness:
-
-1. **Google Security Alert (x2)** — Two of them. Glance at both and confirm they're expected activity (likely the GitHub PAT addition). Don't ignore dupes.
-2. **GitHub — Personal Access Token Added** — Verify this was you. If yes, confirm scope is locked down. If no, rotate immediately.
-3. **Credit Karma — BNPL Account** — Flag says "new account." Confirm you opened this intentionally. Worth 60 seconds to verify no fraud.
-
-Everything else (CB2, Fabletics, Busch Gardens, Calm, etc.) — noise. Unsubscribe or archive when you have a free 10 minutes this week.
+**CARRY FORWARD FROM YESTERDAY**
+No AAR available. Clean slate — flag anything outstanding before EOD.
 
 ---
 
-## Project Status
-Drive shows yesterday's output: morning briefing, competitive intel, and Gmail cleanup — all from 5/16. No new files since. That's expected for a Sunday.
-
-**Watch:** competitive-intel file is 24 hours old. Florida market moves fast — flag for a Monday refresh before any ops decisions lean on it.
-
-Work email (O365) still dark pending IT. That's a gap — anything time-sensitive on the Planet 13 side is invisible until that's resolved. Chase IT first thing Monday.
+**CALENDAR**
+**9:00 AM — J+J❤️🔥** — Your day. Protect it. No work creep.
 
 ---
 
-## Day Plan
-- **Protect 9 AM.** J+J time is non-negotiable. Be present, phone down.
-- **Quick security check before you leave** — confirm the two Google alerts and GitHub PAT were your actions. 5 minutes max.
-- **Verify that BNPL account** — one login, make sure it's yours.
-- **Sunday reset:** review what's coming at you Monday — competitive intel will need a refresh, and O365 access could surface a backlog.
-- **Unplug.** You've got one day a week that looks like this. Use it.
+**EMAIL TRIAGE**
+
+1. **Upgrade — Overdue Payment** → Log in and pay or confirm it's not yours. Overdue flags hurt credit. 5 minutes, do it now.
+2. **Apple — Billing Problem** → Could be a card issue or fraud. Check directly at apple.com/account — don't click email links.
+3. **GOG.COM — Code expires in 24 hours** → Redeem or lose it. Grab it before noon if you want it.
+4. **Schwab eConfirm (acct ...765)** → Glance and confirm you initiated whatever triggered it. Nothing to do if it's expected.
+5. **USAA — Zelle sent** → Verify you authorized it. If unexpected, call USAA immediately.
+
+Everything else (CB2, RH, Affirm, Crate & Barrel, Godiva, ECS) — promotional noise. Trash or ignore.
 
 ---
 
-*O365 integration pending IT — work email blind spot remains open. Escalate Monday AM.*
+**DAY PLAN**
+
+- **Be present** — It's Sunday and J+J is on the calendar. That's a commitment. Honor it.
+- **Financial hygiene** — Upgrade overdue + Apple billing + Schwab confirm. 15 minutes clears all three before 9.
+- **USAA Zelle** — Confirm it was authorized. Quick check, big risk if you don't.
+- **Mental reset** — 33 locations, Monday is coming fast. Use today to decompress so you hit the week sharp, not depleted.
+- **Looker Daily Snapshot** (from yesterday's send) — If you want a pulse on the business, scan it tonight, not now.
+
+---
+
+*Work email (O365) still pending IT approval — blind on that side. Anything urgent likely came through your phone or personal channels. GitHub context not yet loaded — no market or ops data to pull from today.*
+
+*Good morning. Go enjoy your day.*
