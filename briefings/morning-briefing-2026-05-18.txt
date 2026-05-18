@@ -1,0 +1,44 @@
+MORNING BRIEFING — Monday, May 18, 2026
+
+---
+
+**CARRY FORWARD FROM YESTERDAY**
+No AAR available. Clean slate — but that means nothing carries unless you track it yourself today.
+
+---
+
+**CALENDAR**
+No meetings scheduled. Workout block 5–7:30am is on the books — protect it.
+Wide open day. Use it intentionally or it'll disappear.
+
+---
+
+**EMAIL TRIAGE**
+
+1. **Google — Security Alert + Account Recovery** → Two Google security emails landed. Verify both are legit and that the recovery was initiated by you. If not, act immediately. Don't sit on this.
+
+2. **X — New Login from ChromeDesktop/Windows** → Confirm this was you. If not, kill the session and rotate the password now.
+
+3. **American Express — May 2026 Statement** → Statement is ready. Log in, review, approve or flag anything unusual.
+
+4. **Apple Card — Payment Received** → Confirmation only. File it, no action needed.
+
+5. **RaceDayQuads — Abandoned Cart (x2)** → They're pushing hard. Buy it or kill the cart so it stops cluttering your inbox.
+
+---
+
+**DAY PLAN**
+
+- **Security first.** Verify the Google recovery and X login are yours before you do anything else. Two account flags in one weekend is worth 10 minutes of your morning.
+
+- **No calendar = build your own structure.** With 33 locations and no O365 access yet, use today to pressure-test what's slipping through the Gmail gap. What decisions are waiting on you that you don't know about?
+
+- **Push IT on O365 approval.** Every day without work email is operational blind spots. Send a nudge if it's been more than a few days.
+
+- **Commit context to GitHub.** Second Jeff is running without location data, market intel, or AAR history. The briefings will stay shallow until those files exist. 30 minutes today to start that structure pays dividends all week.
+
+- **Workout 5–7:30.** It's on the calendar. Don't negotiate with yourself — everything else runs better when this gets done.
+
+---
+
+*Work email pending + no GitHub context = partial visibility. You're operating with one eye open. Fix the infrastructure this week.*
