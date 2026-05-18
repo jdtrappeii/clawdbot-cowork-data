@@ -3,38 +3,31 @@ MORNING BRIEFING — Sunday, May 17, 2026
 ---
 
 **CARRY FORWARD FROM YESTERDAY**
-No AAR available. Clean slate — flag anything lingering before the week opens.
+No AAR available. Clean slate — but that means open loops from last week are on you to surface.
 
 ---
 
 **CALENDAR**
-**9:00 AM — J+J❤️🔥** — Block is protected. No conflicts. Be present.
+**9:00 AM — J+J❤️🔥** — Clear the morning. Be present. Everything else can wait until after.
 
 ---
 
 **EMAIL TRIAGE**
-- **Simply Wall St — PLTH share price stability (minor risk flag):** Skim the note. PLTH is your parent company's ticker. Know what the flag is before anyone asks Monday.
-- **MÜV — 40% off flower / Trulieve — Linalool promo:** Competitor promo activity. Both running aggressive weekend deals. Worth a 60-second check on what they're pushing and at what price point heading into the week.
-- **USAA 2025 Annual Report:** Personal finance read — save for later today or tonight, not urgent.
-- **Apple Card payment received:** Confirmed. No action.
-- **Everything else (RH, Fandango, Crate & Barrel, Office Depot, OpticsPlanet, Breeze):** Noise. Archive.
+1. **MÜV — 40% OFF Flower** → Competitor promo. Note the discount depth. If they're pushing flower that hard on a Sunday, they're moving inventory. Watch traffic impact at nearby locations this week.
+2. **Trulieve — Linalool promo** → Same lens. Two major competitors running weekend promos simultaneously. Flag for Monday ops review.
+3. **Simply Wall St — PLTH minor risk (share price stability)** → Quick read. PLTH is your parent. Know what's moving before the week starts.
+4. **USAA 2025 Annual Report** → Personal finance. Read it, but not today.
+5. **Everything else** → Retail noise. Delete or ignore.
 
 ---
 
 **DAY PLAN**
-- **Protect the morning.** 9AM is locked and matters. Don't let work bleed into it.
-- **PLTH risk flag — 5 minutes.** Read the Simply Wall St note. Understand the share price stability concern before Monday's conversations start.
-- **Competitive pulse check.** MÜV and Trulieve are both running weekend promotions. 33 locations means this touches your floor. Quick read on what they're discounting and whether your teams need a heads-up for Sunday traffic.
-- **Week setup.** Sunday is your runway. No AAR data, no GitHub context yet — that's two loose threads to close this week. Get IT moving on the O365 integration. Commit the first context files to GitHub so this briefing has real data to work with by next weekend.
-- **Psychedelics Today pitch event** — low urgency, but worth a scan if you're watching adjacent market trends. Florida's regulatory landscape is moving. File it or delete it.
+- **Protect the 9 AM.** Non-negotiable. Full presence.
+- **After — 30 min competitor pulse.** MÜV and Trulieve both running aggressive weekend promos. Think through whether 33 locations need a counter move Monday or if you hold position. Don't react, but don't be blind either.
+- **Unlock Second Jeff properly.** GitHub context still empty. No AAR pipeline. No market data. You're running this briefing on fumes. Spend 20 minutes this week defining what commits need to happen — even placeholder files give this system something to work with.
+- **Work email still dark.** O365 IT approval still pending. That's a real operational gap for a COO. Push IT Monday — this isn't a nice-to-have.
+- **Rest.** It's Sunday. You've got 33 locations that need you sharp Monday morning. Protect the recovery.
 
 ---
 
-**FLAGS**
-⚠️ Work email (O365) still dark — flying blind on operational comms.
-⚠️ No GitHub context loaded — briefings are running on surface data only.
-
-Both are Monday items. Push IT.
-
----
-*Second Jeff | 5:00 AM*
+*Second Jeff is reading Gmail only. Work email, AAR data, and GitHub context are offline. Briefing quality improves as those pipelines open. — SJ*
