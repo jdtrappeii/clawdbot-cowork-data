@@ -3,37 +3,38 @@ MORNING BRIEFING — Sunday, May 17, 2026
 ---
 
 **CARRY FORWARD FROM YESTERDAY**
-No AAR available. Clean slate — flag anything outstanding before EOD.
+No AAR available. Clean slate — flag anything lingering before the week opens.
 
 ---
 
 **CALENDAR**
-**9:00 AM — J+J❤️🔥** — Your day. Protect it. No work creep.
+**9:00 AM — J+J❤️🔥** — Block is protected. No conflicts. Be present.
 
 ---
 
 **EMAIL TRIAGE**
-
-1. **Upgrade — Overdue Payment** → Log in and pay or confirm it's not yours. Overdue flags hurt credit. 5 minutes, do it now.
-2. **Apple — Billing Problem** → Could be a card issue or fraud. Check directly at apple.com/account — don't click email links.
-3. **GOG.COM — Code expires in 24 hours** → Redeem or lose it. Grab it before noon if you want it.
-4. **Schwab eConfirm (acct ...765)** → Glance and confirm you initiated whatever triggered it. Nothing to do if it's expected.
-5. **USAA — Zelle sent** → Verify you authorized it. If unexpected, call USAA immediately.
-
-Everything else (CB2, RH, Affirm, Crate & Barrel, Godiva, ECS) — promotional noise. Trash or ignore.
+- **Simply Wall St — PLTH share price stability (minor risk flag):** Skim the note. PLTH is your parent company's ticker. Know what the flag is before anyone asks Monday.
+- **MÜV — 40% off flower / Trulieve — Linalool promo:** Competitor promo activity. Both running aggressive weekend deals. Worth a 60-second check on what they're pushing and at what price point heading into the week.
+- **USAA 2025 Annual Report:** Personal finance read — save for later today or tonight, not urgent.
+- **Apple Card payment received:** Confirmed. No action.
+- **Everything else (RH, Fandango, Crate & Barrel, Office Depot, OpticsPlanet, Breeze):** Noise. Archive.
 
 ---
 
 **DAY PLAN**
-
-- **Be present** — It's Sunday and J+J is on the calendar. That's a commitment. Honor it.
-- **Financial hygiene** — Upgrade overdue + Apple billing + Schwab confirm. 15 minutes clears all three before 9.
-- **USAA Zelle** — Confirm it was authorized. Quick check, big risk if you don't.
-- **Mental reset** — 33 locations, Monday is coming fast. Use today to decompress so you hit the week sharp, not depleted.
-- **Looker Daily Snapshot** (from yesterday's send) — If you want a pulse on the business, scan it tonight, not now.
+- **Protect the morning.** 9AM is locked and matters. Don't let work bleed into it.
+- **PLTH risk flag — 5 minutes.** Read the Simply Wall St note. Understand the share price stability concern before Monday's conversations start.
+- **Competitive pulse check.** MÜV and Trulieve are both running weekend promotions. 33 locations means this touches your floor. Quick read on what they're discounting and whether your teams need a heads-up for Sunday traffic.
+- **Week setup.** Sunday is your runway. No AAR data, no GitHub context yet — that's two loose threads to close this week. Get IT moving on the O365 integration. Commit the first context files to GitHub so this briefing has real data to work with by next weekend.
+- **Psychedelics Today pitch event** — low urgency, but worth a scan if you're watching adjacent market trends. Florida's regulatory landscape is moving. File it or delete it.
 
 ---
 
-*Work email (O365) still pending IT approval — blind on that side. Anything urgent likely came through your phone or personal channels. GitHub context not yet loaded — no market or ops data to pull from today.*
+**FLAGS**
+⚠️ Work email (O365) still dark — flying blind on operational comms.
+⚠️ No GitHub context loaded — briefings are running on surface data only.
 
-*Good morning. Go enjoy your day.*
+Both are Monday items. Push IT.
+
+---
+*Second Jeff | 5:00 AM*
