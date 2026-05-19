@@ -1,0 +1,37 @@
+MORNING BRIEFING — Tuesday, May 19, 2026
+
+---
+
+**CARRY FORWARD FROM YESTERDAY**
+No AAR available. Running blind on yesterday — log today's closes before EOD.
+
+---
+
+**CALENDAR**
+Clear day. No meetings. Use it.
+
+---
+
+**EMAIL TRIAGE**
+
+1. **USAA — New Document** → Open and review. Financial docs don't wait.
+2. **Apple — Billing Problem** → Likely a payment flag. Resolve before it locks an account.
+3. **Emergent — Something changed in your account** → Check it. Vague subject on a ops tool is a flag, not spam.
+4. **Cigna — Health Assessment** → Not urgent, but it's on you. Block 10 minutes this week.
+5. **Jack Roberts (jack@jackroberts.ai) — "I almost didn't do it"** → Cold outreach most likely, but subject line suggests something worth a 30-second scan.
+
+Everything else — MÜV promo, TeePublic, Jimmy John's, OpticsPlanet, Bauer, Spectrum, TikTok Shop, Truck Parking — archive or unsubscribe batch.
+
+---
+
+**DAY PLAN**
+
+- **Workout 5–7:30a** — already on the clock. Execute.
+- **Clear the actual inbox** — O365 still offline. Gmail is your only visibility right now. Don't let it pile.
+- **Push IT on O365 approval** — you're flying without instruments on work email. That needs a resolution date, not a status.
+- **Set the GitHub context** — Second Jeff is limited without repo files. Even a basic commit with store count, org structure, and KPI baselines unlocks better briefings starting tomorrow.
+- **Define today's one needle-mover** — no meetings means no excuses. Pick the one thing across 33 locations that needs your direct attention and work it.
+
+---
+
+*O365 and GitHub both pending — two unlocks that make every future briefing sharper. Move those forward today.*
