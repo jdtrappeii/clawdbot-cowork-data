@@ -1,0 +1,42 @@
+MORNING BRIEFING — Wednesday, May 20, 2026
+
+---
+
+**CARRY FORWARD FROM YESTERDAY**
+No AAR available. Flying blind — recommend a quick mental download before EOD today to start the feedback loop.
+
+---
+
+**CALENDAR**
+Clear day. No meetings. Use it — deep work or store visits, not inbox drift.
+*(Workout blocked 5–7:30am. Honor it.)*
+
+---
+
+**EMAIL TRIAGE**
+
+1. **Google Business Profile — Amar (Port Richey) + Frank (Cape Coral):** Two customer reviews need eyes. Read both now. If either is negative, respond today and loop in the store GM. Reviews on dispensaries move needles.
+
+2. **Jack Roberts — "three things to do right now":** Unknown sender, aggressive subject line. Likely a pitch. Skim it — if there's a relevant ops/AI angle, flag for later. If not, delete.
+
+3. **ADUSA — "Remember & Honor":** Vendor comms on Memorial Day week. Could be relevant to promo timing across 33 locations — confirm your Memorial Day activation is locked.
+
+Everything else (Dutch Bros, Howl-O-Scream, sofas, gun mags, t-shirts) — delete on sight. Not your morning.
+
+---
+
+**DAY PLAN**
+
+- **Reviews first.** Pull both Google reviews before 6am. Amar and Frank said something — know what it is before your stores open.
+
+- **Memorial Day inventory/promo check.** Holiday weekend is 9 days out. If store-level promo execution isn't confirmed, make calls today. 33 locations means 33 places for it to fall apart.
+
+- **GitHub context — commit your first data files.** You want Second Jeff to actually do work? Feed it. Even one operational context file unlocks better briefings tomorrow.
+
+- **IT follow-up on O365 access.** Work email visibility is a gap. One message to IT today — what's the ETA, what do you need from me. This briefing is running half-blind until that's resolved.
+
+- **No meetings = no excuses.** Pick one store that's underperforming and make a call or walk it. Floor-up intel doesn't come from a clean desk.
+
+---
+
+*Work email offline. AAR loop not yet established. Second Jeff is functional but running on partial data — close those two gaps this week.*
